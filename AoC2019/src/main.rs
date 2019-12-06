@@ -21,3 +21,7 @@ fn main() -> io::Result<()> {
 
     Ok(())
 }
+
+fn problem1() {
+    
+}
